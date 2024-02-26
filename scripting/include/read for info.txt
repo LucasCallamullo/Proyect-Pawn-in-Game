@@ -1,0 +1,5 @@
+[EN]
+Most of these includes are already included with the amxmodx, although some of these were modified for compatibility with the mod, I recommend using these includes, in addition some includes are typical of some heroes like Naruto Uzumaki with chr_engine, I also recommend using these superheromod includes now that were modified.
+
+[ES]
+La mayoría de estos include ya vienen incluidos con el amxmodx, aunque algunos de estos fueron modificados para compatibilidad con el mod, recomiendo usar estos include, ademas algunos include son propios de algunos heroes como naruto uzumaki con chr_engine, tambien recomiendo usar estos include superheromod ya que fueron modificados
