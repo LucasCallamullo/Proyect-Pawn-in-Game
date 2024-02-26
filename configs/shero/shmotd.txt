@@ -1,0 +1,33 @@
+<html><head><style type="text/css">pre{color:#FFB000;}body{background:#000000;margin-left:8px;margin-top:0px;}</style></head><body><pre>
+<b>Como conseguir Heroes:</b>
+Cuando matas a alguien ganas Puntos de Experiencia (XP), Una vez
+que consigas los suficientes subiras de nivel, y podes elegir un Heroe.
+Cuanto mas alto sea el nivel del que matas mas Xp te otorgara.
+En general empezas al Nivel 1 pudiendo elegir un poder.
+
+<b>Como Usar Tus Binds:</b>
+Para usar un Heroe con tecla Bindeable:
+Como por ejemplo Blackwidow(b)
+
+Necesitas bidear una tecla en consola para usar el Heroe/Poder:
+	bind "key" "+power#"
+
+En este caso el comando es "+power#". Aca algunos ejemplos:
+	bind v +power1		bind MOUSE3 +power2
+
+<b>Algunos comandos importantes en say:</b>
+say /superherohelp	- Este menu de ayuda.
+say /showmenu		- Aparece el Menu para elegir Heroes.
+say /herolist		- Mira la lista de Heroes y sus poderes.
+say /myheroes		- Muestra tus Heroes seleccionados.
+say /clearpowers	- Te quitas todos tus poderes.
+say /drop <hero>		- Para sacarte un Heroe en especifico.
+say /whohas <hero>		- Muestra quien tiene cierto Heroe especifico.
+say /playerskills [@ALL|@CT|@T|name] - Muestra que Heroes seleccionados tiene X Jugador.
+say /playerlevels [@ALL|@CT|@T|name] - Muestra los niveles de los Jugadores.
+
+say /automenu	- Enable/Disable auto-show of Select Super Power menu
+say /helpon	- Enable HUD Help message (by default only shown when dead)
+say /helpoff	- Disable HUD Help message
+
+Mod's Official Site: http://shero.alliedmods.net/</pre></body></html>
