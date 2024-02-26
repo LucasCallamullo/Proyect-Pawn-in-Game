@@ -11,6 +11,8 @@ These scripts have had a significant impact on part of the game's community, all
 In addition, I highlight the intensive use of programming logic, with great emphasis on the management of arrays for recognition by identification of different players, and the implementation of logical cycles between various events within the game. I have also developed real-time timers and made modifications and creations of entities within the game.
 
 
+
+
 [ES]
 
 Presento estos scripts como parte de mis proyectos personales, los cuales representan un desafío autodidacta y creativo. Han sido desarrollados desde cero tras el estudio y la modificación de librerías propias del juego.
