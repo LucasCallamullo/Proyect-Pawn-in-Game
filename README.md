@@ -4,11 +4,11 @@ Game = Counter Strike 1.6
 
 [EN] 
 
-I present these scripts as part of my personal projects, which represent a self-taught and creative challenge. They have been developed from scratch after studying and modifying the game's own libraries.
+I present these scripts as part of my personal projects, which represent a self-taught and creative challenge. They have been developed from scratch after studying and modifying game-specific libraries.
 
-These scripts have had a significant impact on part of the game's community, allowing me to work remotely by selling and creating my own in-game projects. This experience has demonstrated my ability to adapt, solve problems, meet established deadlines and communicate in English, given that I meet people from different parts of the world.
+These scripts have made a significant impact on a segment of the game community, allowing me to work remotely through the sale and creation of custom projects within the game. This experience has demonstrated my adaptability, problem-solving skills, adherence to deadlines, and communication in English, given that I interact with people from various parts of the world.
 
-In addition, I highlight the intensive use of programming logic, with great emphasis on the management of arrays for recognition by identification of different players, and the implementation of logical cycles between various events within the game. I have also developed real-time timers and made modifications and creations of entities within the game.
+Additionally, I highlight the intensive use of programming logic, with a strong emphasis on matrix handling for player identification recognition and the implementation of logical cycles among various events within the game. I have also developed real-time timers and made modifications and creations of entities within the game.
 
 
 
